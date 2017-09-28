@@ -1,2 +1,5 @@
 # Hummpy-second
-now I created a new branch(in master, also do some change).
+<<<<<<< HEAD
+now I created a new branch(in master, also do some change!!).
+=======
+>>>>>>> f
